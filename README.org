@@ -1,0 +1,10 @@
+* cl-coroutine
+
+Cl-coroutine is a coroutine library for Common Lisp. It uses cl-cont continuations library in its implementation.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/takagi/cl-coroutine.git   |
+| commit  | de098f8  |
+| systems | cl-coroutine |
+|---------+-------------------------------------------|
+
